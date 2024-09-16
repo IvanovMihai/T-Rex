@@ -1,0 +1,10 @@
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\bin\Debug\T_Rex.exe.config
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\bin\Debug\T_Rex.exe
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\bin\Debug\T_Rex.pdb
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\obj\Debug\T_Rex.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\obj\Debug\T_Rex.Form1.resources
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\obj\Debug\T_Rex.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\obj\Debug\T_Rex.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\obj\Debug\T_Rex.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\obj\Debug\T_Rex.exe
+C:\Users\mihai\OneDrive\Desktop\Proiecte_Info\T_Rex\obj\Debug\T_Rex.pdb
